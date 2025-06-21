@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>trash16.jpg</filename>
+	<path>D:\code\trashbin_project\images\trash16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal_bin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>419</ymin>
+			<xmax>1108</xmax>
+			<ymax>1408</ymax>
+		</bndbox>
+	</object>
+</annotation>

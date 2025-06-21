@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>trash57.jpg</filename>
+	<path>D:\code\trashbin_project\images\trash57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>overflow_bin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>406</ymin>
+			<xmax>957</xmax>
+			<ymax>1305</ymax>
+		</bndbox>
+	</object>
+</annotation>

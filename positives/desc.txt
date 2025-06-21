@@ -1,0 +1,3 @@
+81 XML file processed 
+Total labels: 56 
+Average W:H = 715.7:776.6 
